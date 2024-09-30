@@ -3,7 +3,7 @@ Psuedo Random Generation technique LCG in Python
 
 ![image](https://github.com/user-attachments/assets/faa95dcf-edac-424b-adc6-9b90207cf977)
 
-Where:
+Where: <br>
 X is the sequence of pseudo-random numbers, <br>
 𝑎 is the multiplier, <br>
 c is the increment, <br>
